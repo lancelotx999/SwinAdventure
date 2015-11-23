@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="SwinAdventure/SwinAdventure.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/MoveCommand.cs">
+    <Files>
+      <File FileName="SwinAdventure/MoveCommand.cs" Line="45" Column="4" />
+      <File FileName="SwinAdventure/LookCommand.cs" Line="64" Column="5" />
+      <File FileName="SwinAdventure/Player.cs" Line="72" Column="20" />
+      <File FileName="SwinAdventure/Path.cs" Line="12" Column="24" />
+      <File FileName="SwinAdventure/Location.cs" Line="7" Column="32" />
+      <File FileName="SwinAdventure/LocationTest.cs" Line="18" Column="109" />
+      <File FileName="SwinAdventure/PathTest.cs" Line="129" Column="33" />
+      <File FileName="SwinAdventure/PlayerTest.cs" Line="19" Column="65" />
+      <File FileName="SwinAdventure/LookCommandTest.cs" Line="38" Column="97" />
+      <File FileName="SwinAdventure/IdentifiableObject.cs" Line="11" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="SwinAdventure" expanded="True">
+              <Node name="SwinAdventure" expanded="True">
+                <Node name="PathTest" expanded="True">
+                  <Node name="LeaveFailTest" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,6 @@
+/home/lancelotx999/Documents/Swinburne/OOP/LAB6/SwinAdventure/SwinAdventure/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/lancelotx999/Documents/Swinburne/OOP/LAB6/SwinAdventure/SwinAdventure/bin/Debug/nunit.framework.dll
+/home/lancelotx999/Documents/Swinburne/OOP/LAB6/SwinAdventure/SwinAdventure/bin/Debug/SwinAdventure.exe.mdb
+/home/lancelotx999/Documents/Swinburne/OOP/LAB6/SwinAdventure/SwinAdventure/bin/Debug/SwinAdventure.exe
+/home/lancelotx999/Documents/Swinburne/OOP/LAB6/SwinAdventure/SwinAdventure/obj/x86/Debug/SwinAdventure.exe
+/home/lancelotx999/Documents/Swinburne/OOP/LAB6/SwinAdventure/SwinAdventure/obj/x86/Debug/SwinAdventure.exe.mdb
